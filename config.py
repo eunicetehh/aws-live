@@ -1,0 +1,6 @@
+customhost = "employee.cvizqxos8p8v.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "Bait3273"
+customdb = "eunice_employee"
+custombucket = "eunice-employee"
+customregion = "us-east-1"
